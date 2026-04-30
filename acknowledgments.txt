@@ -3,7 +3,7 @@ Lab 9
 /****************************************************************************
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
-Número de horas:
+Número de horas: 5
 
 
 /****************************************************************************
@@ -11,27 +11,21 @@ Número de horas:
 ******************************************************************************/
 
 ¿Sí o no?
-
+- No
 
 /****************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
-
+Lab interesante 
 
 
 /****************************************************************************
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
+[https://github.com/CriSyS161]
 
 /****************************************************************************
- *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
- *  Para tu firma, escribe /s/, seguido de tu nombre.
- *  Aquí hay un ejemplo:
- *
  *      Esta tarea de programación representa mi propio trabajo de acuerdo
- *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
- ******************************************************************************/
+ *      con las regulaciones de la Universidad.  /s/ Cristian Andrés Sánchez Suárez
 
-[escribe y firma la declaración aquí]
