@@ -34,9 +34,10 @@ def main():
              print("Car not found.")
           
         elif choice == '4':
-          car_id = input("Enter the car ID to paint:\n")
-          new_color = input("Enter the new color:\n")
+          car_id = input("Enter the car ID:\n")
+          new_color = input("Enter new color:\n")
           if car_id in cars:
+             car = cars[car_id]
              car.change_color(new_color)
              print("Color updated.")
              print(car)
